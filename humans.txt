@@ -1,0 +1,9 @@
+/* TEAM */
+Company: Weiß Events UG (haftungsbeschränkt)
+Contact: info@weiss-events.com
+Location: Dinslaken, Germany
+
+/* SITE */
+Language: German / English
+Standards: HTML5, CSS3, JavaScript
+Last update: 2026-10-06
